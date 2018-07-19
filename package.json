@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cld": "^2.4.8",
+    "franc": "^4.0.0",
+    "franc-min": "^4.0.0",
+    "lda": "^0.2.0",
+    "mongoose": "^5.2.4",
+    "sqlite3": "^4.0.2"
+  }
 }
