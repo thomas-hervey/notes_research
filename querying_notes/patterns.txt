@@ -1,0 +1,23 @@
+- Desire for local input
+> verify
+> local
+> survey
+> confirm
+
+# Used patterns
+
+## Maps.me
+> “Duplicate”
+> “This place has gone or never existed”
+> “Amenity doesn't exist! #mapsme”
+> Comment + “POI has no name”  + “POI types:” + OSM tags:
+> Comment + “POI name:”  + name + “POI types:” + OSM tags:
+
+#onosm.org
+> "onosm.org submitted note from a business"
+
+
+## Mapbox feedback
+> “This note was added as per the user feedback from Mapbox”
+> “This OSM note is added as per the user feedback from Mapbox:”
+> “From mapbox user feedback”
